@@ -123,3 +123,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Trash/Model old.ipynb
+Dataset/dataset - Copy.csv
+Dataset/dataset - Copy (2).csv
