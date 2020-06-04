@@ -3,4 +3,4 @@
  \
  BeautifulSoup to do WebScraping of the world largest spanish forum.\
  NLTK to do some NLP functions as Stemming.\
- TensorFlow to do machine learning modeling. I've used embedding layers and RNN.\
+ TensorFlow to do machine learning modeling. I've used embedding layers and RNN.
